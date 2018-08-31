@@ -4,17 +4,17 @@ menggunakan AspNet Core
 
 pada aplikasi ini terdapat proses:
 create new to do list
--task name
--task category 
--tanggal mulai
--deadline
+- task name
+- task category 
+- tanggal mulai
+- deadline
 
-Update progress todo
+Update progress status todo
 - Next to do
 - Inprogress
 - Done
 - tanggal update todo
 
 Report
--Todo completed
--Todo Not completed
+- Todo completed
+- Todo Not completed
