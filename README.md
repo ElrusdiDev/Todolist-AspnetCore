@@ -1,7 +1,8 @@
 # Todolist-AspnetCore
 ini adalah project aplikasi untuk mencatat daftar tugas  atau to do list.
 menggunakan AspNet Core
-pada aplikasi ini bisa :
+
+pada aplikasi ini terdapat proses:
 create new to do list
 -task name
 -task category 
@@ -14,4 +15,6 @@ Update progress todo
 - Done
 - tanggal update todo
 
-
+Report
+-Todo completed
+-Todo Not completed
